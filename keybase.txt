@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/reiyua
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rayyanhodges.com
+  * I am reiyua (https://keybase.io/reiyua) on keybase.
+  * I have a public key ASAqQI0om4jQt5vs5xbGsKalvveXfOrwQl_RjEUTpNEoSgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d0108811f540610c14f99e3931dff6b7e063a665235d87faa6a88a33c18f1dd00a",
+      "host": "keybase.io",
+      "kid": "01202a408d289b88d0b79bece716c6b0a6a5bef7977ceaf0425fd18c4513a4d1284a0a",
+      "uid": "8ce3ccff31a941be03a2c632880a7719",
+      "username": "reiyua"
+    },
+    "merkle_root": {
+      "ctime": 1707451335,
+      "hash": "d98fc0b6b5971aa866894b9a3565b7ba1d9598a655ef0faa26d9cc57d257803f8d52789b7406fb0d1de2bcbc5eb602134717a13f9e497f16051c4ec1ec6a6520",
+      "hash_meta": "83312c2ce323398e7f7c98c50d6221ac4736ff97a2536fbc7fcf3fac806fcbec",
+      "seqno": 25442276
+    },
+    "service": {
+      "entropy": "XlMzfRNvI8Eaj1KzprCWxSRD",
+      "hostname": "rayyanhodges.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.5"
+  },
+  "ctime": 1707451420,
+  "expire_in": 504576000,
+  "prev": "cdc6678c79ea065e757a66c7bd2f6161f862334b4bb6d1f9ca1b936400c8912b",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgKkCNKJuI0Leb7OcWxrCmpb73l3zq8EJf0YxFE6TRKEoKp3BheWxvYWTESpcCG8QgzcZnjHnqBl51embHvS9hYfhiM0tLttH5yhuTZADIkSvEIJg2LKlyDyhys3ofy2UU5PZ9WcvVkf00Srxmst4GXEoYAgHCo3NpZ8RAdj35dMfYLZY3WjJ+hNhdFQGBM2kbftbjnivTDMLO6zdRVIUWNw7FxNyFwbIuWixSB1C28b9aP8tL+qiK6yC7DKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEKlDxatJmBa3AGwU3x3VbiiL5gw311zOhcXQyAEDGz7o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reiyua
+
+==================================================================
